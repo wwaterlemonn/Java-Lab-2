@@ -1,6 +1,5 @@
 import ru.ifmo.se.pokemon.*;
 import pokemonset.*;
-import moveset.*;
 
 public class Lab2 {
     public static void main(String[] args){
